@@ -1,15 +1,9 @@
-# Hi there, I'm Amirhosein Askari 👋
+# Amirhosein Askari
 
-Welcome to my GitHub profile!
+👋 Welcome to my GitHub!
 
-## About Me
-- 🔭 I’m currently working on improving my coding skills and exploring new technologies.
-- 🌱 I’m learning 
-- 👯 I’m open to collaborating on interesting projects.
-- 💬 Ask me about programming, software development, or anything tech-related.
-- 📫 How to reach me: [theamiraskarii@gmail.com]
-- ⚡ Fun fact: I love coding and coffee ☕
+I'm passionate about coding and always exploring new technologies. Currently, I'm focused on improving my development skills and open to collaborating on meaningful projects.
 
----
+📬 Reach me at: theamiraskarii@gmail.com
 
-Thanks for visiting!
+Thanks for stopping by!
